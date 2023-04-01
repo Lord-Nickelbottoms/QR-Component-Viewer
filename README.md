@@ -31,7 +31,7 @@ The smaller challenges were:
 
 ## What I learned
 
-- I learned how to use View Height (**vh**) as a unit when it came to **min-height** and **max-height** to set contstraints for big components or elements.
+- I learned how to use View Height (**vh**) as a unit when it came to **min-height** and **max-height** to set constraints for big components or elements.
 - I learned how to use **Flexbox** in conjunction with **height** to position an element in the center both vertically and horizontally. Horizontally was the easiest as flexbox does its magic. It took a while to get the height to work.
 - Reinforcement of how to use **max-width** to keep an element at a certain width (this being the QR image, the heading and the paragraph).
 
@@ -48,4 +48,5 @@ The smaller challenges were:
 
 This solution can be found:
 
-- On my personal [GitHub](https://www.github.com/Lord-Nickelbottoms)
+- On my personal [GitHub](https://www.github.com/Lord-Nickelbottoms) for the source code
+- On [Vercel](https://qr-component-viewer-final.vercel.app/)
